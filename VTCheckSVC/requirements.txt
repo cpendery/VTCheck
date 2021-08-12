@@ -1,0 +1,6 @@
+pyjwt==2.0.1 
+Flask-Cors==3.0.10 
+Flask==1.1.2 
+requests==2.25.1 
+pymysql==1.0.2
+cryptography==3.4.7

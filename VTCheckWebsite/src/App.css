@@ -1,0 +1,39 @@
+html,
+body {
+   height: 100%;
+}
+body{
+  background-color: #121212 !important;
+}
+h1{
+  color: #FFFFFF;
+}
+h3{
+  color: #FFFFFF;
+}
+.table{
+  text-align: center;
+}
+.btn{
+  margin: 5px;
+}
+
+label{
+  color: #FFFFFF;
+  margin-right: 10px;
+}
+
+th{
+  font-size: 12px;
+  padding: 6px !important;
+}
+
+td{
+  font-size: 12px;
+  padding: 6px !important;
+}
+
+.title{
+  width: 50%;
+  height: auto;
+}
